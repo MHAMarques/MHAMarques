@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding web systems and games
 - 🌱 I’m currently learning full stack dev @Kenzie Academy
 - 💞️ I’m looking to collaborate on games and web systems
-- 📫 How to reach me Twitter: @MHMarques
+- 📫 How to reach me at Twitter: @MHMarques
 
 <!---
 MHAMarques/MHAMarques is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
