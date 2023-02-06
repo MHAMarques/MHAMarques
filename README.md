@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MHAMarques
+- 👋 Hi, I’m @MHAMarques as Marcelo Henrique Aguiar Marques
 - 👀 I’m interested in coding web systems and games
 - 🌱 I’m currently learning full stack dev @Kenzie Academy
 - 💞️ I’m looking to collaborate on games and web systems
